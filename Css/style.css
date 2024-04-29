@@ -1,0 +1,60 @@
+
+	main {
+  background: #BBADFD;
+  font-size: 40px;
+  padding: 3rem;
+  width: 500px;
+  text-align: center;
+  margin: 1em auto;
+}
+nav {
+  background: #D1B0B0;
+  padding: 1.5rem;
+}
+body {
+  text-align: center;
+  background: #F8EFE8;
+  font-size: 30px;
+}
+		article {
+			font-size: 25px;
+			float: left;
+			background: #B8EDCD;
+			width: 300px;
+		}
+		a {
+			background: #EDECB8;
+			font-size: 20px;
+		}
+		img {
+			width: 200px;
+			height: 350px;
+			float: left;
+			margin-left: 3em;
+			margin-top: 1em;
+		}
+		div {
+			font-size: 25px;
+			float: right;
+			background: #B8EDCD;
+			width: 300px;
+		}
+
+	.photo { 
+		float: right;
+		margin-top: 1em;
+		width: 250px;
+		margin-right: 2em;
+		
+		
+}
+    .study {
+		align-self: auto;
+		margin-top: 2em;
+		
+}
+    .pic {
+		width: 400px;
+		height: 200px;
+}
+   
