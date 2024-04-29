@@ -1,5 +1,5 @@
 
-	main {
+	/* stylizing the title the same way as the previous pages */ main {
   background: #BBADFD;
   font-size: 40px;
   padding: 3rem;
@@ -19,10 +19,10 @@ body {
 		article {
 			font-size: 25px;
 			float: left;
-			background: #B8EDCD;
+			background: #B8EDCD; /* using the same color palette as other pages for a cohesive design */ 
 			width: 300px;
 		}
-		a {
+		/* customizing how the links look */ a {
 			background: #EDECB8;
 			font-size: 20px;
 		}
@@ -40,7 +40,7 @@ body {
 			width: 300px;
 		}
 
-	.photo { 
+	/* customizing images with different div class names */ .photo { 
 		float: right;
 		margin-top: 1em;
 		width: 250px;
